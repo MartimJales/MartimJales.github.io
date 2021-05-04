@@ -1,0 +1,44 @@
+/*h2,h3,h4,h5,h6{
+  text-align:center;
+}*/
+.s{
+  position:sticky;
+}
+.pg{
+  font-size:25px;
+}
+h1{
+  text-align:center;
+  position:sticky;
+}
+.imag{
+  height:250px;
+}
+.bp{
+  width:250px;
+  border-style:dotted;
+  border-width:5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-color:pink;
+}
+.bb{
+  width:250px;
+  border-style:dotted;
+  border-width:5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-color:blue;
+}
+#home{
+  font-size:25px;
+  color:red;
+  position:fixed;
+  bottom:0px;
+  background-color:white;
+}
+#flexbox{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+}

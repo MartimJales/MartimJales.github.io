@@ -1,0 +1,77 @@
+  .center {
+		margin: auto;
+		display: block;
+		width: 200px;
+	}
+  
+	.AA {
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: lightgray;
+    text-shadow: 2px 2px 5px red;
+	}
+
+
+  #back_img_AA {
+      //background-image: url("MAPA MUNDI.jpg");
+      border: 2px black solid; 
+  }
+
+  .c {
+    text-align: center;
+    font-family: Arial;
+    color: red;
+  }
+
+  .pedro {
+    color: rgb(61, 61, 61);
+    text-align: left;
+    text-shadow: 3px 3px 10px rgb(114, 114, 114);
+    font: normal 15pt Arial;
+    text-align: center;
+  }
+
+  .nome {
+    color: rgb(43, 31, 211);
+    font:  bold 20pt Arial;
+  }
+
+  section {
+    width: 200px;
+    background-color: rgb(29, 29, 29);
+    padding: 5px;
+    border-radius: 6px;
+    margin: Auto;
+    box-shadow: 5px 5px 10px rgb(66, 38, 38);
+  }
+    
+  .VC{
+    font-family: "Arial";
+    color: green;
+    text-align: center;
+  }
+
+  .vc2 {
+    color: blue; 
+  }
+
+  .MF{
+    color: rgb(253, 107, 209);
+    font: title 20pt Aharoni;
+    text-align: center;
+  }
+
+  .mf{
+    color: black;
+    text-align: center;
+    font: normal 12pt Century Schoolbook;
+  }
+
+  #titulo {
+    text-align: center;
+    color: red
+  }
+    
+  #title {
+    text-align: center;
+  }

@@ -1,0 +1,10 @@
+body{
+  background: grey;
+  font: 16px/2em sans-serif;
+}
+.start_btn{
+  width: 500px;
+  height: 500px;
+  background: aliceblue;
+  text-align: center;
+}

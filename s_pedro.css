@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: candara;
+}
+
+img {
+  width: 230px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+h1 {
+  margin-left: 35%;
+}
